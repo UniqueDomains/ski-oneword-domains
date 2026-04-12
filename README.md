@@ -1,22 +1,22 @@
-# Available .SKI One-Word Domains (5,622,006)
+# Available .SKI One-Word Domains (9,568)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C568%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C622%2C006%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C568%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .ski one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .ski one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,568-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,622,006 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,568 rows · **Live catalog:** 5,622,006 domains
+**Public extract:** 9,568 rows · **Live catalog:** 9,568 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/ski`  
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | simple.ski   | available | $39.99    | $86.99        | 128            | 48     | 6      | name.com                                                |
 | name.ski     | resell    | —         | —             | 82             | 76     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | gold.ski     | premium   | $135.20   | $135.20       | 72             | 99     | 4      | namecheap                                               |
-| genius.ski   | available | $39.99    | $86.99        | 98             | 47     | 6      | name.com                                                |
-| open.ski     | resell    | —         | —             | 106            | 61     | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
-| power.ski    | premium   | $135.20   | $135.20       | 98             | 62     | 5      | namecheap                                               |
 | clear.ski    | available | $39.99    | $86.99        | 90             | 47     | 5      | name.com                                                |
-| data.ski     | resell    | —         | —             | 84             | 60     | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
-| good.ski     | premium   | $1,000    | $1,000        | 82             | 55     | 4      | name.com                                                |
-| wizard.ski   | available | $39.99    | $86.99        | 118            | 46     | 6      | name.com                                                |
-| free.ski     | resell    | —         | —             | 88             | 59     | 4      | Name.com, Inc.                                          |
-| business.ski | premium   | $3,412.50 | $3,412.50     | 100            | 53     | 8      | namecheap                                               |
+| open.ski     | resell    | —         | —             | 106            | 60     | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
+| power.ski    | premium   | $135.20   | $135.20       | 98             | 62     | 5      | namecheap                                               |
 | snap.ski     | available | $39.99    | $86.99        | 90             | 46     | 4      | name.com                                                |
-| max.ski      | resell    | —         | —             | 70             | 59     | 3      | NameSilo, LLC                                           |
-| one.ski      | premium   | $3,125    | $3,125        | 132            | 51     | 3      | name.com                                                |
-| energy.ski   | available | $82.98    | —             | 82             | 46     | 6      | namecheap                                               |
+| free.ski     | resell    | —         | —             | 88             | 59     | 4      | Name.com, Inc.                                          |
+| good.ski     | premium   | $1,000    | $1,000        | 82             | 55     | 4      | name.com                                                |
+| genius.ski   | available | $39.99    | $86.99        | 98             | 45     | 6      | name.com                                                |
 | the.ski      | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc                                             |
-| game.ski     | premium   | $1,000    | $1,000        | 120            | 50     | 4      | name.com                                                |
+| business.ski | premium   | $3,412.50 | $3,412.50     | 100            | 53     | 8      | namecheap                                               |
+| creator.ski  | available | $39.99    | $86.99        | 70             | 45     | 7      | name.com                                                |
+| data.ski     | resell    | —         | —             | 84             | 56     | 4      | Xiamen ChinaSource Internet Service Co., Ltd            |
+| one.ski      | premium   | $3,125    | $3,125        | 132            | 50     | 3      | name.com                                                |
 | forge.ski    | available | $39.99    | $86.99        | 62             | 45     | 5      | name.com                                                |
+| max.ski      | resell    | —         | —             | 70             | 55     | 3      | NameSilo, LLC                                           |
+| game.ski     | premium   | $1,000    | $1,000        | 120            | 50     | 4      | name.com                                                |
+| wizard.ski   | available | $39.99    | $86.99        | 118            | 43     | 6      | name.com                                                |
 | abc.ski      | resell    | —         | —             | 102            | 50     | 3      | Xiamen ChinaSource Internet Service Co., Ltd            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,568-row public sample | 5,622,006 live domains                           |
+| 9,568-row public sample | 9,568 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SKI One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SKI One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
