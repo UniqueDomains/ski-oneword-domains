@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .ski one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,535 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,535 domains · **Median ask:** $67.26 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,535 domains · **Median ask:** $71.47 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/ski`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/ski`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SKI one-word domain c
 
 ### Files
 
-- `ski.csv` — public CSV extract (1,000 rows)
-- `ski.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `ski.csv`, public CSV extract (1,000 rows)
+- `ski.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| girls.ski     | available | $39.99    | —             | 83             | 23     | 5      | name.com  |
-| ladies.ski    | available | $39.99    | —             | 80             | 17     | 6      | name.com  |
-| Apples.ski    | premium   | —         | —             | 90             | 16     | 6      | —         |
-| useit.ski     | available | $39.99    | —             | 94             | 7      | 6      | name.com  |
-| playon.ski    | available | $39.99    | —             | 80             | 14     | 7      | name.com  |
-| toneup.ski    | available | $39.99    | —             | 80             | 5      | 7      | name.com  |
-| dogsick.ski   | available | $39.99    | —             | 90             | 1      | 7      | name.com  |
-| leaveon.ski   | available | $39.99    | —             | 80             | 1      | 8      | name.com  |
-| presents.ski  | available | $39.99    | —             | 80             | 9      | 8      | name.com  |
-| lets.ski      | available | $39.99    | —             | 77             | 39     | 4      | name.com  |
-| agents.ski    | premium   | $123.75   | —             | 56             | 50     | 6      | name.com  |
-| prompts.ski   | available | $39.99    | —             | 54             | 39     | 7      | name.com  |
-| cars.ski      | premium   | $123.75   | —             | 66             | 47     | 4      | name.com  |
-| stories.ski   | available | $39.99    | —             | 58             | 36     | 7      | name.com  |
-| jobs.ski      | premium   | $123.75   | —             | 79             | 42     | 4      | name.com  |
-| spectra.ski   | available | $39.99    | —             | 62             | 34     | 7      | name.com  |
-| solutions.ski | premium   | $123.75   | —             | 56             | 31     | 9      | name.com  |
-| etc.ski       | available | $39.99    | —             | 58             | 34     | 3      | name.com  |
-| quotes.ski    | premium   | $123.75   | —             | 58             | 29     | 6      | name.com  |
-| payments.ski  | available | $39.99    | —             | 58             | 33     | 8      | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
+| out.ski   | available | $39.99    | —             | high           | low    | 3      | name.com                                     |
+| feel.ski  | available | $39.99    | —             | high           | low    | 4      | name.com                                     |
+| come.ski  | available | $39.99    | —             | high           | low    | 4      | name.com                                     |
+| quiet.ski | available | $39.99    | —             | high           | low    | 5      | name.com                                     |
+| here.ski  | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo                                     |
+| hello.ski | available | —         | —             | high           | low    | 5      | —                                            |
+| ago.ski   | available | $39.99    | $86.99        | medium         | low    | 3      | name.com                                     |
+| Media.ski | resell    | —         | —             | high           | medium | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| job.ski   | premium   | $3,125    | —             | high           | low    | 3      | name.com                                     |
+| apt.ski   | available | $39.99    | —             | high           | low    | 3      | name.com                                     |
+| token.ski | resell    | —         | —             | high           | medium | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
+| sea.ski   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
+| bed.ski   | available | $39.99    | —             | high           | low    | 3      | name.com                                     |
+| best.ski  | premium   | $11,250   | —             | high           | medium | 4      | name.com                                     |
+| cod.ski   | available | $39.99    | —             | high           | low    | 3      | name.com                                     |
+| did.ski   | available | $39.99    | —             | high           | low    | 3      | name.com                                     |
+| kind.ski  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                     |
+| era.ski   | available | $39.99    | —             | high           | medium | 3      | name.com                                     |
+| lady.ski  | premium   | $123.75   | —             | high           | low    | 4      | name.com                                     |
+| fog.ski   | available | $39.99    | —             | high           | low    | 3      | name.com                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .ski extension. The set spans dictionary-style words, action words, and broader commercial terms such as girls.ski, finals.ski, jewels.ski, geton.ski, and getup.ski. For founders, the main question is whether the word is memorable, relevant, and easy to defend as a brand in a niche extension. For investors, the key is entry price discipline: the median ask is 67.27, so weaker words may still be buyable, but resale depends heavily on end-user fit. When comparing these domains, favor clear words with direct meaning, simple spelling, and obvious use in skiing, winter sports, apparel, travel, or event contexts.
+This list covers 12,535 one-word .ski domain names, from everyday nouns to two words merged into a single string, such as jewels.ski, out.ski, and landscaping.ski. The median ask across the set sits near $71, putting most names within reach for a quick, low-cost pick. Because the .ski extension is used far beyond ski or snow topics — see solarpower.ski or shoparound.ski — these names work as flexible, brandable identifiers rather than niche-locked labels. Comparing names side by side on length, clarity, and price is the fastest way to narrow this set to a short list worth acting on.
 
-- Prioritize clear one-word terms with direct ski-market relevance.
-- Use the 67.27 median ask to judge entry price discipline.
-- Short, plain-English words are easier to remember and pitch.
-- Check trademark risk before valuing broad commercial terms.
+- 12,535 one-word .ski domains, updated daily
+- Median ask near $71 across this selection
+- Everyday nouns and merged words, e.g. jewels.ski, out.ski
+- Ownable now — brandable picks for founders and investors
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SKI One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SKI One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
