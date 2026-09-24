@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .ski one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,662 domains · **Median ask:** $50.87 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/ski`
 **Best for:** founders, investors, studios
 
@@ -73,7 +73,7 @@ print(df.head())
 | best.ski  | premium   | $12,285   | $12,285       | medium         | low    | 4      | namecheap                                    |
 | bed.ski   | available | $39.99    | —             | high           | low    | 3      | name.com                                     |
 | here.ski  | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo                                     |
-| cod.ski   | available | $39.99    | —             | high           | low    | 3      | name.com                                     |
+| cod.ski   | available | $27.99    | $64.99        | low            | low    | 3      | namesilo                                     |
 | kind.ski  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                     |
 | cxv.ski   | available | $39.99    | $86.99        | low            | low    | 3      | name.com                                     |
 | lady.ski  | premium   | $123.75   | —             | high           | low    | 4      | name.com                                     |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SKI One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SKI One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
