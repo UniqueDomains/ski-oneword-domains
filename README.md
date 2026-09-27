@@ -1,10 +1,10 @@
-# Available .SKI One-Word Domains (32,577)
+# Available .SKI One-Word Domains (22,883)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C577%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C883%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .ski one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,577 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,883 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,577 domains · **Median ask:** $50.68 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 22,883 domains · **Median ask:** $57.74 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/ski`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| ain.ski   | available | $39.99    | $86.99        | high           | low    | 3      | name.com                                     |
-| girl.ski  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 18                            |
-| ada.ski   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                     |
-| ash.ski   | available | $39.99    | —             | high           | low    | 3      | name.com                                     |
-| media.ski | resell    | —         | —             | high           | medium | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
-| ads.ski   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                     |
-| bay.ski   | available | $39.99    | $86.99        | high           | low    | 3      | name.com                                     |
-| bee.ski   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                     |
-| bed.ski   | available | $39.99    | —             | high           | low    | 3      | name.com                                     |
-| job.ski   | premium   | $3,125    | —             | high           | low    | 3      | name.com                                     |
-| boy.ski   | available | $39.99    | —             | high           | low    | 3      | name.com                                     |
-| org.ski   | premium   | $3,125    | —             | high           | medium | 3      | name.com                                     |
-| cow.ski   | available | $39.99    | —             | high           | low    | 3      | name.com                                     |
-| pan.ski   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| cry.ski   | available | $39.99    | —             | high           | low    | 3      | name.com                                     |
-| sea.ski   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| cxv.ski   | available | $39.99    | $86.99        | high           | low    | 3      | name.com                                     |
-| toy.ski   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                     |
-| did.ski   | available | $39.99    | —             | high           | low    | 3      | name.com                                     |
-| way.ski   | premium   | $123.75   | —             | high           | low    | 3      | name.com                                     |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar      |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------- |
+| bbs.ski   | available | $76.98    | $82.98        | high           | low    | 3      | namecheap      |
+| alps.ski  | resell    | —         | —             | high           | low    | 4      | Name.com, Inc. |
+| ada.ski   | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo       |
+| cia.ski   | available | $27.99    | $64.99        | high           | medium | 3      | namesilo       |
+| short.ski | resell    | —         | —             | high           | medium | 5      | OVH SAS        |
+| aid.ski   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo       |
+| cub.ski   | available | $76.98    | $82.98        | high           | low    | 3      | namecheap      |
+| how.ski   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo       |
+| fad.ski   | available | $76.98    | $82.98        | high           | low    | 3      | namecheap      |
+| pet.ski   | premium   | $1,000    | $1,000        | high           | medium | 3      | name.com       |
+| inc.ski   | available | $39.99    | —             | high           | low    | 3      | name.com       |
+| bomb.ski  | premium   | $123.75   | —             | high           | low    | 4      | name.com       |
+| llc.ski   | available | $27.99    | $64.99        | high           | low    | 3      | namesilo       |
+| lead.ski  | premium   | $640      | $640          | high           | medium | 4      | namesilo       |
+| our.ski   | available | $39.99    | —             | high           | medium | 3      | name.com       |
+| live.ski  | premium   | $135.20   | $135.20       | high           | medium | 4      | namecheap      |
+| pad.ski   | available | $39.99    | —             | high           | low    | 3      | name.com       |
+| save.ski  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo       |
+| pot.ski   | available | $76.98    | $82.98        | high           | low    | 3      | namecheap      |
+| slim.ski  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,577 live domains                        |
+| 1,000-row public sample | 22,883 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SKI One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SKI One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
