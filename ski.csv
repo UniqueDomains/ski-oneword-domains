@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 f70c9913-f02a-4103-8c95-0ebdb24295d1,antlered.ski,available,39.99,86.99,medium,low,8,name.com,,,05/08/2026 20:11
-96372013-6417-43b4-b141-013b8267c0eb,pet.ski,premium,1000,1000,high,medium,3,name.com,,,09/08/2026 17:52
+96372013-6417-43b4-b141-013b8267c0eb,pet.ski,premium,854,854,high,medium,3,namesilo,,,27/09/2026 06:59
 c6d06e96-8442-43c6-aaa6-46cecb75f0ae,horses.ski,available,27.99,64.99,medium,low,6,namesilo,,,17/09/2026 09:06
 b7d9799a-d8b5-4aa5-bc0d-3d77aba4b65f,iambic.ski,available,39.99,86.99,medium,low,6,name.com,,,21/08/2026 17:28
 dff03bee-ee10-4f32-801b-37394e919bf3,traduce.ski,available,39.99,86.99,medium,low,7,name.com,,,24/08/2026 14:06
@@ -39,6 +39,7 @@ c761e2ad-01db-4669-9e98-c0037598d1cf,disaster.ski,available,27.99,64.99,high,low
 200ca5f4-b16b-4415-9a52-49b6285aed9c,plated.ski,available,27.99,64.99,high,low,6,namesilo,,,17/09/2026 05:15
 b5a5a7f6-aa38-4aa0-914d-888db7281d2d,lyons.ski,available,76.98,82.98,high,low,5,namecheap,,,25/09/2026 06:03
 ed99ff91-f63e-4f44-a14b-1984868a45a7,cognisant.ski,available,39.99,86.99,medium,low,9,name.com,,,08/08/2026 00:18
+b59189e9-ca02-41f8-8349-159013cacc3c,rockwell.ski,available,76.98,82.98,high,low,8,namecheap,,,27/09/2026 04:54
 5aad3272-2a86-4284-9007-b0f70c19024f,planetary.ski,available,39.99,86.99,high,medium,9,name.com,,,20/08/2026 14:33
 db72d611-11a4-4fd0-bee9-9e656646dcc7,remaining.ski,available,39.99,86.99,high,low,9,name.com,,,22/08/2026 22:43
 a87cb37f-df98-46a9-9b5f-2cc776ff8ba9,amenra.ski,available,76.98,82.98,medium,low,7,namecheap,,,18/09/2026 18:32
@@ -214,6 +215,7 @@ f48fa623-39e6-4d22-a326-4bd7af7f8166,proximal.ski,available,27.99,64.99,high,low
 0161a7cb-a75f-4b27-843f-a57f2a5053a3,pad.ski,available,39.99,,high,low,3,name.com,,,
 7ab01623-7f0a-44e8-be9e-41fd75f5fb2a,leasing.ski,available,39.99,,high,low,7,name.com,,,
 a140b346-72d6-41ea-8d50-4ff099ce7213,light.ski,premium,118.8,118.8,high,low,5,namesilo,,,
+a5dc92ae-89d4-41ac-94e1-e4afc31a6b1a,switched.ski,available,27.99,64.99,medium,low,8,namesilo,,,27/09/2026 09:43
 3fa05c55-39ed-434f-a6f1-77f67fa33eda,introduced.ski,available,39.99,,high,low,10,name.com,,,
 69bd57f8-0edd-44ea-9754-67d06a067e35,milliliter.ski,available,39.99,86.99,medium,low,10,name.com,,,11/08/2026 22:53
 96541478-7799-43fa-9d85-fc6b2562dde0,aerobic.ski,available,76.98,82.98,high,low,7,namecheap,,,21/09/2026 21:01
@@ -260,6 +262,7 @@ dbb7f381-4b89-4b09-bef1-b65f7bbb85a4,twist.ski,available,39.99,,high,low,5,name.
 b546928b-18fa-4779-911e-d1ac1e9d3b4d,squad.ski,available,27.99,64.99,high,low,5,namesilo,,,26/09/2026 00:04
 f3d9934d-f3cd-40e0-8418-ce4264b04c5b,currish.ski,available,39.99,86.99,low,low,7,name.com,,,13/08/2026 11:31
 d06c0887-0f59-4fd3-9ff2-2d9a62a28388,recipe.ski,available,39.99,,high,low,6,name.com,,,
+fcad82a1-0942-4e63-8bf9-9b6662fa2d71,alicia.ski,available,27.99,64.99,high,low,6,namesilo,,,27/09/2026 07:22
 7521db52-38d1-41fb-84b8-d35fbe6d57f4,shelf.ski,available,39.99,,high,low,5,name.com,,,
 5f116c4c-9303-4402-8ab2-59dfb81f847d,useless.ski,available,39.99,,high,low,7,name.com,,,
 0d7906a1-8e2d-41a9-b126-67cdd430d56c,mussolini.ski,available,27.99,64.99,medium,low,9,namesilo,,,23/09/2026 08:12
@@ -294,6 +297,7 @@ a57dadb1-416d-447e-bc66-b6758874ecbb,hostile.ski,available,27.99,64.99,high,low,
 77069edc-5d02-4358-9a88-0fe69dec7fe2,heuristic.ski,available,39.99,86.99,high,low,9,name.com,,,21/08/2026 07:34
 dc7a15b7-0a74-4ed5-b631-04ec10336397,orders.ski,available,27.99,64.99,high,low,6,namesilo,,,18/09/2026 14:04
 3207d7a8-9f5a-407a-bea9-d607a43aac50,agassiz.ski,available,27.99,64.99,medium,low,7,namesilo,,,17/09/2026 16:23
+658cddce-cbb2-473e-af29-1f20f2957665,politics.ski,available,27.99,64.99,high,low,8,namesilo,,,27/09/2026 05:03
 6346b9d4-8365-4afc-857e-4968fc5ee087,endorse.ski,available,27.99,64.99,high,low,7,namesilo,,,08/09/2026 09:45
 3707d7ca-b506-4aa6-9547-ca62f66c4f99,millionth.ski,available,39.99,86.99,high,low,9,name.com,,,24/08/2026 23:25
 d859bd18-ff72-4477-9077-b6f7b9a93a09,willful.ski,available,39.99,86.99,medium,low,7,name.com,,,18/08/2026 16:37
@@ -336,6 +340,7 @@ c0308d11-2a1a-40f5-8ac1-620a3f86cfad,deltoid.ski,available,39.99,86.99,medium,lo
 41b04736-6c29-4434-a635-bc456d5c48f0,kinetic.ski,premium,118.8,118.8,high,low,7,namesilo,,,17/08/2026 06:45
 24472dcb-c8c0-474b-a5fa-73155b49bc3a,sycamore.ski,available,27.99,64.99,high,low,8,namesilo,,,16/09/2026 23:36
 6f3e819a-16b7-4760-bcc5-81e32f4fa5ff,collar.ski,available,27.99,64.99,high,low,6,namesilo,,,20/09/2026 09:02
+ecb81a5e-4e5d-4aa4-9eae-8f80ced9fd4d,tissue.ski,available,76.98,82.98,high,low,6,namecheap,,,27/09/2026 05:43
 5aad01a4-5383-45a1-a265-17ec8803c147,momentary.ski,available,39.99,86.99,medium,low,9,name.com,,,18/08/2026 07:54
 83a0a8a0-f8e0-476b-b0b0-fee91aed9c6a,ironical.ski,available,39.99,86.99,medium,low,8,name.com,,,22/08/2026 10:06
 65324547-fcd3-4606-8bd9-c257d50844a9,accused.ski,available,39.99,,high,low,7,name.com,,,
@@ -360,12 +365,13 @@ d5b26cf8-0532-4122-8eeb-41ac5120c82e,cantonal.ski,available,39.99,86.99,medium,l
 d0eccc02-c995-4904-933e-988a75a2b024,eudaimonia.ski,available,27.99,64.99,high,low,10,namesilo,,,12/09/2026 23:00
 1aedbf1b-6003-4829-bc90-36575593bc7e,doula.ski,available,76.98,82.98,high,low,5,namecheap,,,23/09/2026 21:09
 f37601f9-86ec-42f1-83cf-8af1d9bc0d8f,alleviant.ski,available,27.99,64.99,medium,low,9,namesilo,,,04/09/2026 23:46
-378585b1-f27f-4231-a4e0-5805d291d797,resounding.ski,available,39.99,,high,low,10,name.com,,,
+378585b1-f27f-4231-a4e0-5805d291d797,resounding.ski,available,27.99,64.99,high,low,10,namesilo,,,27/09/2026 12:35
 de4fd6c1-a629-4f23-b574-47d0640422cc,dispatcher.ski,available,76.98,82.98,high,low,10,namecheap,,,24/09/2026 22:52
 22d08d47-5fcb-4981-ac9c-902baca233a8,racy.ski,available,39.99,86.99,high,low,4,name.com,,,18/08/2026 18:00
 6a76484c-bcc9-45c5-8e18-e6e69c07ac5b,loyola.ski,available,27.99,64.99,high,low,6,namesilo,,,25/09/2026 07:44
 ccc50309-3f02-4738-95d6-c278691dc743,walls.ski,premium,135.2,135.2,high,low,5,namecheap,,,25/09/2026 16:16
 f8f879d6-3821-47a1-9b52-efb772106d40,minute.ski,available,27.99,64.99,high,low,6,namesilo,,,25/09/2026 09:28
+d38b79c0-2004-4fe3-881c-260195fb0a22,colbert.ski,available,20.9,51.95,medium,low,7,spaceship,,,27/09/2026 12:41
 68ec38ce-29c1-4eb0-92ba-66b09a3f83b5,orienting.ski,available,76.98,82.98,high,low,9,namecheap,,,04/09/2026 17:56
 21f12c76-6df5-4aea-b084-2680f3e0dcd2,carnal.ski,available,39.99,86.99,high,low,6,name.com,,,
 937d0348-5025-45ce-bd6c-cdb898fe2089,never.ski,available,39.99,,high,low,5,name.com,,,
@@ -419,7 +425,7 @@ b9baa3f8-12cc-4ede-8721-68a6c41f77ae,rush.ski,available,76.98,82.98,high,low,4,n
 e14d6f35-94d6-4734-b34f-7411594d661d,deity.ski,available,76.98,82.98,high,low,5,namecheap,,,24/09/2026 21:23
 860e1abf-9f6a-4a3b-8897-c607ada98a96,sublunar.ski,available,39.99,86.99,medium,low,8,name.com,,,12/08/2026 08:27
 33e88378-d8de-4ba8-aab7-716fe3ff9eb4,bauble.ski,available,27.99,64.99,high,low,6,namesilo,,,22/09/2026 16:31
-fbe38c63-1d0d-4f90-9955-35c189f826d0,civil.ski,available,39.99,86.99,high,low,5,name.com,,,12/08/2026 09:03
+fbe38c63-1d0d-4f90-9955-35c189f826d0,civil.ski,available,76.98,82.98,high,low,5,namecheap,,,27/09/2026 06:53
 ab053022-dbcf-406a-b196-2f4e5b3c2fee,system.ski,premium,118.8,118.8,high,medium,6,namesilo,,,23/09/2026 06:54
 46b415e4-a207-4276-95fe-f1b26f4e0d2b,entrancing.ski,available,39.99,86.99,medium,low,10,name.com,,,09/08/2026 18:23
 11f60cec-802d-41d2-a087-687efbf07f3f,forfeit.ski,available,39.99,86.99,high,low,7,name.com,,,12/08/2026 21:00
@@ -444,7 +450,7 @@ d91c796a-f7fd-4af3-80b5-7dec5f28a519,disposal.ski,available,27.99,64.99,high,low
 7db3614b-9154-4efa-bc29-b38d86e4e068,richness.ski,available,27.99,64.99,high,low,8,namesilo,,,17/09/2026 14:41
 66442670-1656-441d-879d-6914af00e214,lund.ski,available,76.98,82.98,high,low,4,namecheap,,,25/09/2026 09:11
 b1c2b7d7-b688-46e7-86ec-d60f6ac5f0f9,smuggled.ski,available,76.98,82.98,medium,low,8,namecheap,,,22/09/2026 21:31
-81b0de55-bc9c-4c2c-b042-a385a878c08f,deepen.ski,available,39.99,86.99,high,low,6,name.com,,,12/08/2026 19:32
+81b0de55-bc9c-4c2c-b042-a385a878c08f,deepen.ski,available,27.99,64.99,high,low,6,namesilo,,,27/09/2026 06:53
 dfeb2578-6b7f-4a3a-8cf1-22b80947533d,vaughan.ski,available,76.98,82.98,high,low,7,namecheap,,,25/09/2026 10:35
 cf4e673b-cb9e-4d01-92e3-1dd28c1fe41b,pulpit.ski,available,76.98,82.98,high,low,6,namecheap,,,18/09/2026 17:14
 9fc7c801-73e7-48a9-a5f2-c83654628c46,cuspid.ski,available,39.99,86.99,medium,low,6,name.com,,,11/08/2026 17:03
@@ -469,7 +475,7 @@ b76201b2-071b-4976-a5c3-f75a4cec05eb,reverently.ski,available,27.99,64.99,medium
 c26ad450-1d40-465f-9184-58e9c8ec6be0,taipei.ski,available,39.99,,high,low,6,name.com,,,
 c95b5d9a-0f3a-4ca4-82ba-c8e0468fda1b,expired.ski,available,39.99,86.99,medium,low,7,name.com,,,17/08/2026 18:21
 975b76ec-8148-4b84-8935-af4cc1498f95,graphite.ski,available,27.99,64.99,high,low,8,namesilo,,,24/09/2026 01:02
-053dc0c3-d937-46b2-8d84-90cb0174ee08,prone.ski,available,39.99,,medium,low,5,name.com,,,
+053dc0c3-d937-46b2-8d84-90cb0174ee08,prone.ski,available,27.99,64.99,medium,low,5,namesilo,,,27/09/2026 07:37
 ecc0345a-2ee7-47c2-bb1b-d72a1481af65,downriver.ski,available,39.99,86.99,medium,low,9,name.com,,,14/08/2026 18:01
 b9b2eca3-59bd-42ca-b28e-2a544a04ff61,cordate.ski,available,39.99,86.99,high,low,7,name.com,,,13/08/2026 00:50
 90e08249-9201-4f7d-989d-622c081ce12e,european.ski,premium,4140,4140,high,low,8,namesilo,,,24/09/2026 15:26
@@ -480,8 +486,8 @@ aa46647c-0f47-4947-a98d-96d722446b9f,hurry.ski,available,39.99,,high,low,5,name.
 76c8e1ce-c6fd-4889-8e48-2a6afddd9437,lxiii.ski,available,39.99,86.99,medium,low,5,name.com,,,
 00568dc0-dd34-4550-8a37-ae16adc9018c,lower.ski,available,39.99,,high,low,5,name.com,,,
 02d73637-4ab7-404a-a853-df6ad78b4f20,zippo.ski,available,27.99,64.99,high,low,5,namesilo,,,03/09/2026 22:45
-bc488e27-3794-4f06-b208-064400bc5132,favourite.ski,available,39.99,86.99,high,low,9,name.com,,,13/08/2026 18:17
-9b09f8fb-0e53-48af-9914-e8af90592b5a,daddy.ski,available,39.99,,high,low,5,name.com,,,
+bc488e27-3794-4f06-b208-064400bc5132,favourite.ski,available,27.99,64.99,high,low,9,namesilo,,,27/09/2026 06:53
+9b09f8fb-0e53-48af-9914-e8af90592b5a,daddy.ski,available,76.98,82.98,high,low,5,namecheap,,,27/09/2026 04:35
 b6496f87-58d0-4b51-a103-008482f9b51a,chive.ski,available,27.99,64.99,high,low,5,namesilo,,,18/09/2026 11:28
 08c01d21-bead-4b69-bfba-f34898e05dfa,this.ski,available,39.99,,high,medium,4,name.com,,,
 a0475cf9-fd9b-4080-a2f4-506f7bf29c99,periodic.ski,available,27.99,64.99,high,low,8,namesilo,,,08/09/2026 17:11
@@ -489,9 +495,10 @@ a0475cf9-fd9b-4080-a2f4-506f7bf29c99,periodic.ski,available,27.99,64.99,high,low
 e336d8bc-e216-4bc3-b73d-9c961d95eaef,quadruple.ski,available,39.99,86.99,high,low,9,name.com,,,18/08/2026 13:24
 60758d0c-a38d-4cd5-92fb-50a3a2377cbf,axile.ski,available,39.99,86.99,medium,low,5,name.com,,,08/08/2026 01:56
 61a2867b-bbe5-4d04-82a8-86b903f0fbb6,gaza.ski,available,27.99,64.99,high,low,4,namesilo,,,25/09/2026 06:23
+8f3d3f27-b319-4132-bb4b-7dc4ec9dcf09,laurent.ski,available,27.99,64.99,medium,low,7,namesilo,,,27/09/2026 09:55
 054a03f3-8916-4a69-971e-cc31a91eb2f5,brutish.ski,available,39.99,86.99,low,low,7,name.com,,,09/08/2026 17:59
 5326d35c-6382-4b23-8e6d-c0dd75ecaca0,knowing.ski,available,27.99,64.99,high,low,7,namesilo,,,25/09/2026 10:04
-2c4aedde-a7c5-4420-be7d-25722299cf24,ionic.ski,available,39.99,86.99,high,low,5,name.com,,,22/08/2026 09:29
+2c4aedde-a7c5-4420-be7d-25722299cf24,ionic.ski,available,27.99,64.99,high,low,5,namesilo,,,27/09/2026 06:53
 a75266f8-756e-4a2b-8803-ff869437fc18,ananias.ski,available,27.99,64.99,medium,low,7,namesilo,,,19/09/2026 02:03
 51abf859-5139-4e27-8cd4-80f9cc53ad4e,reader.ski,available,39.99,,high,low,6,name.com,,,
 31e3ed9c-fcc8-40dc-88a9-c3784f639f1c,response.ski,available,39.99,,high,low,8,name.com,,,
@@ -522,17 +529,16 @@ bdf60145-a5fc-4196-a391-9f862e3d74f9,initiative.ski,available,27.99,64.99,high,l
 d7b37f78-dd35-43c3-8dcc-cdbc9fda72e5,hiatus.ski,available,27.99,64.99,high,low,6,namesilo,,,16/09/2026 14:09
 66cfd761-d921-4e26-8644-0aa51d9c8e00,abbey.ski,available,27.99,64.99,high,low,5,namesilo,,,16/09/2026 14:25
 1b1fba64-d887-4bec-9001-010f59be2519,calm.ski,available,27.99,64.99,high,low,4,namesilo,,,23/09/2026 12:30
-76b3e1f7-2546-4016-a9f2-2da26de8888f,standard.ski,available,,,high,medium,8,,,,
 51c840aa-5129-4901-9c0f-7836657760a1,hearsay.ski,available,39.99,86.99,high,low,7,name.com,,,21/08/2026 02:04
 66de6ca8-337f-4949-97cd-12b1234c1a7f,breath.ski,available,27.99,64.99,high,low,6,namesilo,,,24/09/2026 10:14
 96186f72-58b3-4dd1-8ea2-cba839320dde,marvelous.ski,available,76.98,82.98,high,low,9,namecheap,,,25/09/2026 00:13
 2d2d8012-8fdd-4cea-a83c-9975ae47759a,studying.ski,available,27.99,64.99,high,low,8,namesilo,,,25/09/2026 09:55
 dd24e89c-37f6-4e9b-b94f-c12a4a2497db,giza.ski,available,39.99,,high,low,4,name.com,,,
-defad293-abf3-4dc7-a95b-6cd18ddfcbeb,publicized.ski,available,39.99,,high,low,10,name.com,,,
+defad293-abf3-4dc7-a95b-6cd18ddfcbeb,publicized.ski,available,76.98,82.98,high,low,10,namecheap,,,27/09/2026 08:05
 582a1039-3fba-4d21-8bd2-b5426c7e078f,overheated.ski,available,76.98,82.98,medium,low,10,namecheap,,,04/09/2026 20:47
 c4d84897-6d67-4936-970a-74629f419718,grassroots.ski,available,39.99,86.99,high,low,11,name.com,,,20/08/2026 18:16
 58d30f9f-066a-43bf-b318-b81356469054,kennedy.ski,available,27.99,64.99,high,low,7,namesilo,,,25/09/2026 23:14
-b29add12-5638-4fcb-a502-08f6a8c7ffd2,downstream.ski,available,39.99,86.99,high,low,10,name.com,,,14/08/2026 17:59
+b29add12-5638-4fcb-a502-08f6a8c7ffd2,downstream.ski,available,27.99,64.99,high,low,10,namesilo,,,27/09/2026 06:53
 9a9ea13a-4f0d-45ed-8bbc-0e2f4ba7924a,vassal.ski,available,39.99,86.99,medium,low,6,name.com,,,18/08/2026 03:02
 803765fd-d3b5-4318-b89c-2fd6556dc66f,begum.ski,available,27.99,64.99,medium,low,5,namesilo,,,23/09/2026 03:01
 757910c7-2e2a-4535-9d4b-4718038b4035,educative.ski,available,39.99,86.99,high,low,9,name.com,,,15/08/2026 11:09
@@ -549,6 +555,7 @@ c06469e2-67cc-44b5-8749-8b8700d771ac,contraband.ski,available,76.98,82.98,high,l
 fd803a54-e860-4591-bdd7-f4edfe043bed,baritone.ski,available,39.99,86.99,medium,low,8,name.com,,,08/08/2026 19:36
 eef0bafd-533b-4cdf-85ac-24f40e545737,eolian.ski,available,39.99,86.99,medium,low,6,name.com,,,
 cc903470-16b7-4fa2-a42b-8d8a0d3b9ea8,cypher.ski,available,39.99,86.99,high,medium,6,name.com,,,
+2a4720ea-543f-47d8-a6e9-d8f6a1a6059b,infection.ski,available,27.99,64.99,medium,low,9,namesilo,,,27/09/2026 04:34
 d32ee2a0-f525-477b-9a3f-9eb3a29351b3,bedframe.ski,available,27.99,64.99,high,low,9,namesilo,,,22/09/2026 23:17
 f03becc3-5cdf-49bf-819d-f72dbc31b7f3,ring.ski,available,39.99,,high,low,4,name.com,,,
 484d97ee-95f5-4085-81ff-50dd372ae786,overcomes.ski,available,27.99,64.99,medium,low,9,namesilo,,,21/09/2026 04:26
@@ -572,7 +579,7 @@ e26fbaf8-f567-4c36-a4ca-3b2e96b89900,tethered.ski,available,27.99,64.99,medium,l
 86b80871-f47b-4674-933c-f93695af5474,sensual.ski,available,27.99,64.99,high,low,7,namesilo,,,22/09/2026 04:34
 e242a85b-4ca1-4330-b896-206d3b9a1685,passed.ski,available,39.99,,high,low,6,name.com,,,
 afa20f51-e88c-497f-8a49-e6390750d820,radial.ski,available,27.99,64.99,high,low,6,namesilo,,,09/09/2026 09:30
-be14bd07-6331-4260-8cc2-e29c923d75b4,fill.ski,available,39.99,,high,low,4,name.com,,,
+be14bd07-6331-4260-8cc2-e29c923d75b4,fill.ski,available,21.62,53.72,high,low,4,dynadot,,,27/09/2026 11:50
 180e3def-7c46-4771-bed2-d5e0df057ea1,unpainted.ski,available,27.99,64.99,medium,low,9,namesilo,,,12/09/2026 16:25
 fe6ceeab-a089-44c3-af87-e07b92861ed9,bedroll.ski,available,76.98,82.98,high,low,7,namecheap,,,22/09/2026 23:33
 79bea16d-cf91-4b26-ac1f-458c78276df3,ripened.ski,available,76.98,82.98,high,low,7,namecheap,,,09/09/2026 17:55
@@ -648,11 +655,12 @@ f69524c8-ee37-40d7-b7f1-72bf67036d78,blasting.ski,available,39.99,86.99,high,low
 3363e0e2-67e7-4c32-bcdf-bf8d0b0ed8b5,pariah.ski,available,76.98,82.98,medium,low,6,namecheap,,,04/09/2026 19:07
 3b28f2f6-7c52-4b74-bf37-87b5156e53d4,touching.ski,available,39.99,86.99,high,low,8,name.com,,,
 19e2f99a-a3e6-4291-b5d8-46c05f399783,naseby.ski,available,76.98,82.98,medium,low,6,namecheap,,,22/09/2026 15:31
+6b655871-48c9-40d8-bcff-7b732f80ad1b,temper.ski,available,76.98,82.98,high,low,6,namecheap,,,27/09/2026 04:28
 781e2c8c-3c20-4ab1-8041-13296d43719f,rarefied.ski,available,39.99,86.99,medium,low,8,name.com,,,17/08/2026 15:44
 7e65b66c-ccfd-4252-a07d-f57c00d2f659,zombi.ski,available,27.99,64.99,medium,low,5,namesilo,,,21/09/2026 07:04
 6304958e-2268-4f0a-a672-aa45964315b9,nail.ski,available,27.99,64.99,high,low,4,namesilo,,,21/09/2026 16:04
 11df697e-ece6-47e8-a37b-56c1c65ce214,unbooked.ski,available,27.99,64.99,medium,low,8,namesilo,,,12/09/2026 02:19
-85030fa4-825f-4ebe-8ec9-885a613ef20d,preferred.ski,available,39.99,86.99,high,low,9,name.com,,,09/08/2026 17:53
+85030fa4-825f-4ebe-8ec9-885a613ef20d,preferred.ski,available,76.98,82.98,high,low,9,namecheap,,,27/09/2026 06:53
 012f4cc3-dc7b-4db6-9995-5cb338928bf9,orwellian.ski,available,76.98,82.98,medium,low,9,namecheap,,,04/09/2026 18:08
 ba553378-7fd5-4c0f-8ed6-d29f69055f35,carribean.ski,available,39.99,,high,low,9,name.com,,,
 78de258b-c2ee-4658-9762-7e162a65ef7b,stewardess.ski,available,27.99,64.99,high,low,10,namesilo,,,17/09/2026 22:26
@@ -682,6 +690,7 @@ f14c6094-c240-4fa6-9dd3-cd63ae17f82f,hitless.ski,available,39.99,86.99,medium,lo
 be3ee5e8-4a76-425f-9415-3a224bc75e52,apodictic.ski,available,39.99,86.99,medium,low,9,name.com,,,06/08/2026 01:27
 41a4911d-1f31-4a29-a55f-da6294a7a929,spf.ski,available,27.99,64.99,high,low,3,namesilo,,,25/09/2026 17:19
 1d2230b2-5627-4519-bc5c-ec6e9461b7a4,transonic.ski,available,27.99,64.99,medium,low,9,namesilo,,,10/09/2026 14:11
+7284b1bb-daed-45ba-bda9-89a889539af0,willy.ski,available,27.99,64.99,high,low,5,namesilo,,,27/09/2026 06:19
 7c7df07c-db9a-4126-93f6-94b6ca940cca,dented.ski,available,39.99,86.99,medium,low,6,name.com,,,13/08/2026 09:08
 ed47c9a2-65a0-44d3-9186-adeae7e010fd,apposite.ski,available,39.99,86.99,medium,low,8,name.com,,,06/08/2026 07:53
 a43123a2-7610-479d-96f0-b187cee6acd6,carmine.ski,available,39.99,86.99,high,low,7,name.com,,,10/08/2026 15:02
@@ -708,7 +717,7 @@ d4ce7c63-bb3c-4c3c-a021-502af1744f6a,booth.ski,available,76.98,82.98,high,low,5,
 55d7c742-5ab2-409e-aafa-b29136d92581,facilitating.ski,available,39.99,,medium,low,12,name.com,,,
 c541b172-12eb-4a30-a68b-6d26545c5a9b,angelfish.ski,available,76.98,82.98,high,low,9,namecheap,,,19/09/2026 05:56
 1edb71a0-5fd7-4700-a2b3-5b96749aae82,provably.ski,available,27.99,64.99,medium,low,8,namesilo,,,14/09/2026 11:29
-00b77460-ee99-4f24-b132-0f18c2a90077,fraud.ski,available,39.99,,high,low,5,name.com,,,
+00b77460-ee99-4f24-b132-0f18c2a90077,fraud.ski,available,27.99,64.99,high,low,5,namesilo,,,27/09/2026 07:55
 56a98b88-109e-47a0-baad-a81db18da020,cheapjack.ski,available,39.99,86.99,medium,low,9,name.com,,,12/08/2026 03:25
 0636f104-53c2-412e-88ea-e826b889429d,front.ski,available,76.98,82.98,high,low,5,namecheap,,,24/09/2026 21:48
 d0602db3-5f0a-4a59-a60f-c95c84dd033a,erudite.ski,available,39.99,86.99,high,low,7,name.com,,,17/08/2026 13:10
@@ -716,7 +725,7 @@ d0602db3-5f0a-4a59-a60f-c95c84dd033a,erudite.ski,available,39.99,86.99,high,low,
 39c78638-8fd6-4ecc-957a-e1750c72bab6,asarum.ski,available,27.99,64.99,medium,low,6,namesilo,,,20/09/2026 12:52
 5cea0e51-d433-4bec-8470-fed5dfa2d8b7,snuck.ski,available,27.99,64.99,medium,low,5,namesilo,,,20/09/2026 23:46
 0df14f36-0b20-4dae-95ef-0e07b5b9acf5,antique.ski,available,27.99,64.99,high,low,7,namesilo,,,21/09/2026 22:23
-dafe6083-8e57-49eb-9e44-f69e11b06a63,greater.ski,available,39.99,86.99,high,low,7,name.com,,,20/08/2026 19:38
+dafe6083-8e57-49eb-9e44-f69e11b06a63,greater.ski,available,27.99,64.99,high,low,7,namesilo,,,27/09/2026 06:53
 b5e3b5a3-1845-4b50-aede-01386cb90e30,intently.ski,available,27.99,64.99,medium,low,8,namesilo,,,15/09/2026 08:56
 97348b04-f4da-4fb4-b3c9-7dbe950881d9,blackcock.ski,available,27.99,64.99,medium,low,9,namesilo,,,24/09/2026 00:30
 b8e8a8a8-94f6-4b67-9951-9d410af5beed,mohammedan.ski,available,39.99,86.99,medium,low,10,name.com,,,25/08/2026 03:23
@@ -737,13 +746,14 @@ de64d06d-2d9f-49e3-81d1-587d446b5aed,edgewise.ski,available,27.99,64.99,medium,l
 14367641-44f5-4d26-8d7e-52f2c623457b,favors.ski,available,27.99,64.99,high,low,6,namesilo,,,18/09/2026 09:42
 817e6ee6-2c8b-44ff-8cec-31f702b0fed5,reasonably.ski,available,27.99,64.99,medium,low,10,namesilo,,,25/09/2026 11:58
 5bc2934c-5fc8-43d2-93a8-414bf52ea7cb,fad.ski,available,76.98,82.98,high,low,3,namecheap,,,24/09/2026 19:13
+88b7e254-21ef-4af1-ab0c-38dc092490ec,rudy.ski,available,27.99,64.99,high,low,4,namesilo,,,27/09/2026 07:02
 672485f2-7f17-4a5f-98a0-61744c5e346c,overpriced.ski,available,76.98,82.98,medium,low,10,namecheap,,,04/09/2026 21:26
 b0e42ca5-5ef7-4789-b0dc-bc80620f86ab,within.ski,available,39.99,,high,low,6,name.com,,,
 f080da17-3cc2-4796-9fd5-eb77f8c836df,silverbush.ski,available,27.99,64.99,medium,low,10,namesilo,,,19/09/2026 14:04
 9d51eaa8-ece3-4bb0-a335-85680de0c8f9,parvenu.ski,available,27.99,64.99,medium,low,7,namesilo,,,03/09/2026 22:14
 b6c9ef22-b2f5-49bc-a447-4184ce599bc8,harley.ski,available,27.99,64.99,high,low,6,namesilo,,,25/09/2026 12:17
 c29a5d47-916b-400a-af50-775790650019,fear.ski,available,39.99,86.99,high,low,4,name.com,,,24/09/2026 12:06
-3602dad1-8c51-49fd-908f-082d5b56879d,yummy.ski,available,39.99,86.99,high,low,5,name.com,,,14/08/2026 00:26
+3602dad1-8c51-49fd-908f-082d5b56879d,yummy.ski,available,27.99,64.99,high,low,5,namesilo,,,27/09/2026 06:53
 f3e1ee0b-31be-44e1-ae7a-e5bda3b06e63,accomplice.ski,available,27.99,64.99,high,low,10,namesilo,,,16/09/2026 22:50
 f6fa3ae8-14af-4989-87c5-5d3fd5d2f0f4,phial.ski,available,76.98,82.98,high,low,5,namecheap,,,18/09/2026 23:47
 49285f37-5dbd-4635-9d41-bc28d999d076,shaper.ski,available,39.99,,high,low,6,name.com,,,
@@ -760,7 +770,7 @@ c57f97c0-0640-48ea-8057-a3b823bdf545,abeyant.ski,available,39.99,86.99,medium,lo
 eda28f91-bc35-43e4-9f93-5501fff62d0e,modesty.ski,available,39.99,,high,low,7,name.com,,,
 82a508ce-bc3d-47e9-8bd5-23b906efb537,jazz.ski,available,39.99,,high,low,4,name.com,,,
 4e873326-fa79-45d4-a63e-2b9cc3fe5e52,integral.ski,available,76.98,82.98,high,low,8,namecheap,,,23/09/2026 10:33
-2ffdcf15-ddfb-4d21-a9cf-1f2db79033e9,zippy.ski,available,39.99,86.99,high,low,5,name.com,,,11/08/2026 04:35
+2ffdcf15-ddfb-4d21-a9cf-1f2db79033e9,zippy.ski,available,27.99,64.99,high,low,5,namesilo,,,27/09/2026 06:53
 1f592c1d-ffc9-4f69-8b27-0eb993650033,impossible.ski,available,27.99,64.99,high,medium,10,namesilo,,,25/09/2026 07:55
 cb7d119b-603a-4080-a1ea-f731108c1775,riot.ski,available,27.99,64.99,high,low,4,namesilo,,,24/09/2026 13:04
 2822c761-0b30-4a29-b109-eb5412be41e2,rocambole.ski,available,27.99,64.99,medium,low,9,namesilo,,,18/09/2026 11:33
@@ -796,13 +806,13 @@ c17b290c-129d-44a4-9e3f-65e239f9e89a,boozy.ski,available,39.99,86.99,low,low,5,n
 0b4ee6d5-ea13-4c81-becd-fc051b046a70,cogent.ski,available,39.99,86.99,high,low,6,name.com,,,12/08/2026 15:33
 d4f34012-7138-45b7-a1b2-930276ae4490,aliform.ski,available,39.99,86.99,medium,low,7,name.com,,,
 0f54f58b-2d05-4678-bb10-ea19eef79a8e,joy.ski,available,,,high,medium,3,,,,
-2c032f58-c84a-4ab1-ba4f-f8f5adc4699e,banter.ski,available,39.99,86.99,high,low,6,name.com,,,22/08/2026 13:53
+2c032f58-c84a-4ab1-ba4f-f8f5adc4699e,banter.ski,available,27.99,64.99,high,low,6,namesilo,,,27/09/2026 06:53
 ed7025e8-4b9f-4f6c-bf4f-27deb0216da6,asymptotic.ski,available,39.99,86.99,medium,low,10,name.com,,,07/08/2026 10:30
 388a615c-4f8b-4361-95df-2d864bb33239,cutaneal.ski,available,39.99,86.99,medium,low,8,name.com,,,13/08/2026 12:57
 d923bd8d-2c74-42d6-8640-0627cde53510,grandparents.ski,available,27.99,64.99,high,low,12,namesilo,,,18/09/2026 06:12
 cc556ed4-5d2d-4c83-873c-64eebc07f462,save.ski,premium,118.8,118.8,high,low,4,namesilo,,,
 21ffffc9-c2f2-44b0-bceb-9556d8e34b0c,grayish.ski,available,39.99,86.99,medium,low,7,name.com,,,20/08/2026 18:56
-e7dffd90-b8cd-4e4a-93a5-5e4bdb6dace7,viable.ski,available,39.99,86.99,high,low,6,name.com,,,17/08/2026 16:52
+e7dffd90-b8cd-4e4a-93a5-5e4bdb6dace7,viable.ski,available,27.99,64.99,high,low,6,namesilo,,,27/09/2026 06:53
 00b2b654-324d-4560-ae92-1964f9985696,gallant.ski,available,39.99,86.99,high,low,7,name.com,,,12/08/2026 06:16
 9f587c30-1fd8-4696-802e-a3503e906287,brindle.ski,available,39.99,86.99,medium,low,7,name.com,,,11/08/2026 04:17
 50dab262-77c2-4b7f-bef9-dfcbcc7fe1eb,cadent.ski,available,39.99,86.99,medium,low,6,name.com,,,11/08/2026 12:48
@@ -829,7 +839,7 @@ c3c338bd-6c5e-4d57-bc2b-7e06a0d76760,rancor.ski,available,27.99,64.99,medium,low
 f1184e6f-944c-4d26-937b-4f7b3f752802,beanfeast.ski,available,76.98,82.98,high,low,9,namecheap,,,22/09/2026 20:29
 dab32da3-3b41-45e9-8088-a2a866691151,anthology.ski,available,27.99,64.99,high,low,9,namesilo,,,19/09/2026 13:28
 105909c8-ce4d-4b56-a540-b64fd5b5ae73,ably.ski,available,27.99,64.99,high,low,4,namesilo,,,13/09/2026 16:20
-0b6f8675-f8ba-490f-b375-5f7c1905dd57,renowned.ski,available,39.99,86.99,high,low,8,name.com,,,11/08/2026 23:18
+0b6f8675-f8ba-490f-b375-5f7c1905dd57,renowned.ski,available,27.99,64.99,high,low,8,namesilo,,,27/09/2026 06:57
 9c9edfec-1b45-4347-862a-1cde3bd1168a,handled.ski,available,39.99,86.99,high,low,7,name.com,,,20/08/2026 23:28
 1e6c89bd-ecdc-44b0-8320-50cd6c8716c2,sword.ski,available,76.98,82.98,high,low,5,namecheap,,,25/09/2026 10:46
 d7bd1ca2-682f-488e-9bc3-dd401a8d181d,anchorage.ski,available,27.99,64.99,high,low,9,namesilo,,,19/09/2026 03:43
@@ -876,6 +886,7 @@ d418ac79-bf68-47b7-a270-1b73e0ec7a3d,cretin.ski,available,39.99,86.99,medium,low
 64cb1c2c-7c97-4da5-9f4e-88d81b406a2f,unity.ski,available,27.99,64.99,high,medium,5,namesilo,,,21/09/2026 10:47
 9699715e-cbe9-4613-8457-878f5c11c74b,bedclothes.ski,available,27.99,64.99,high,low,10,namesilo,,,22/09/2026 22:48
 82c7da2f-3503-4421-8d8a-486effd38acb,predatory.ski,available,39.99,86.99,medium,low,9,name.com,,,24/08/2026 15:43
+fba48aba-77ce-4125-a41b-7e9da6262cac,miss.ski,available,27.99,64.99,high,low,4,namesilo,,,27/09/2026 03:56
 139b0831-dab2-4ad9-81c0-8b2ce40067fc,subliminal.ski,available,27.99,64.99,high,low,10,namesilo,,,11/09/2026 00:08
 0822babf-ed3e-4ae7-8c3f-dae25ce7d45a,messianic.ski,available,39.99,86.99,high,low,9,name.com,,,24/08/2026 21:22
 a80fcd6b-6b4b-4a74-b4be-4547603e5afe,affaire.ski,available,27.99,64.99,medium,low,7,namesilo,,,17/09/2026 14:00
@@ -883,14 +894,14 @@ a80fcd6b-6b4b-4a74-b4be-4547603e5afe,affaire.ski,available,27.99,64.99,medium,lo
 8ef1b3af-6a1b-4b77-bd2d-87e7fc1d973b,basically.ski,available,39.99,,high,low,9,name.com,,,
 723e28dd-c232-4e2e-a3c4-a546d0f5b473,cigarette.ski,available,76.98,82.98,high,low,9,namecheap,,,25/09/2026 04:15
 9888a4a8-97c2-44b5-96bf-3a9585fae3e7,grouchy.ski,available,39.99,86.99,medium,low,7,name.com,,,08/08/2026 07:52
-b205244a-dd90-45c0-a328-fc07ced2dedf,past.ski,available,39.99,,high,low,4,name.com,,,
+b205244a-dd90-45c0-a328-fc07ced2dedf,past.ski,available,76.98,82.98,high,low,4,namecheap,,,27/09/2026 02:57
 6987c12c-bc38-4690-97fc-ae56cc4e670a,tiddly.ski,available,27.99,64.99,medium,low,6,namesilo,,,11/09/2026 15:36
 747ea291-6f7b-4e68-b8b5-cb9780ddfe43,baboon.ski,available,27.99,64.99,high,low,6,namesilo,,,21/09/2026 12:58
 90016e85-f6d9-47d5-b72c-835da3cf4225,beveridge.ski,available,76.98,82.98,medium,low,9,namecheap,,,23/09/2026 12:04
 a5e67f25-222f-40c7-bcc8-272fd06fbc75,bight.ski,available,27.99,64.99,high,low,5,namesilo,,,23/09/2026 15:12
 fe6c7d74-0614-48b3-bd81-ef26ce530564,fridge.ski,available,39.99,,high,low,6,name.com,,,
-19a7d2c7-30a2-4382-9dcb-3a54e731e161,swish.ski,available,39.99,86.99,high,low,5,name.com,,,12/08/2026 09:55
-4d5b387c-dad1-4769-91be-d8e76ef9c129,eccentric.ski,available,39.99,86.99,high,low,9,name.com,,,10/08/2026 09:50
+19a7d2c7-30a2-4382-9dcb-3a54e731e161,swish.ski,available,27.99,64.99,high,low,5,namesilo,,,27/09/2026 06:53
+4d5b387c-dad1-4769-91be-d8e76ef9c129,eccentric.ski,available,27.99,64.99,high,low,9,namesilo,,,27/09/2026 06:57
 4cebc06a-ed10-48f8-8a01-670efb7c85fa,indigenous.ski,available,39.99,86.99,high,low,10,name.com,,,07/08/2026 19:31
 889a4bec-ede4-4851-952a-1d02fc5addbe,lafayette.ski,available,39.99,,high,low,9,name.com,,,
 a018151e-f498-49ce-b1f9-c96b545eee93,onward.ski,available,27.99,64.99,high,low,6,namesilo,,,14/09/2026 19:49
@@ -955,11 +966,13 @@ fc8bcd78-b952-4a6b-a72c-420fd255958f,capacious.ski,available,39.99,86.99,medium,
 8c7ac0ea-adba-4598-aaa3-d1e6a4b69599,quieten.ski,available,39.99,86.99,medium,low,7,name.com,,,11/08/2026 15:02
 ccb6cc7f-b7a1-443c-87f2-99782549b997,unbarred.ski,available,27.99,64.99,medium,low,8,namesilo,,,12/09/2026 01:34
 daf49a74-94dc-45c8-99dc-5d9372c5461b,tank.ski,available,76.98,82.98,high,low,4,namecheap,,,20/09/2026 07:27
+a0bc2970-ed53-4e37-bd4c-8cd0fc46cab9,cease.ski,available,27.99,64.99,medium,low,5,namesilo,,,27/09/2026 12:23
 8c909a78-5677-44c9-ae72-ec479edaaac8,adopter.ski,available,27.99,64.99,high,low,7,namesilo,,,17/09/2026 09:39
 68af47d6-7a6d-4f84-b526-2d3104aba094,airworthy.ski,available,39.99,86.99,medium,low,9,name.com,,,
 740196c0-2b18-4563-b7ea-94e44395918a,responsive.ski,available,27.99,64.99,high,low,10,namesilo,,,22/09/2026 06:49
 e86a7ee8-a243-4f85-b9ab-5430fe9abec1,character.ski,available,27.99,64.99,high,low,9,namesilo,,,24/09/2026 13:45
 92c26141-a428-4843-aa4c-a2c5744d492c,choice.ski,premium,118.8,118.8,high,low,6,namesilo,,,22/09/2026 02:45
+40228743-6f34-4ee4-ad86-b4146b50c000,oath.ski,available,76.98,82.98,high,low,4,namecheap,,,27/09/2026 12:47
 609dfc69-5a5d-4f07-8329-5cee290fc74a,beating.ski,available,39.99,,high,low,7,name.com,,,
 844bbb43-e83e-43d7-927b-100ce9698c2b,abutilon.ski,available,76.98,82.98,medium,low,8,namecheap,,,16/09/2026 19:21
 5e633a92-395d-4222-bd02-8524587553e5,solitary.ski,available,39.99,86.99,high,low,8,name.com,,,24/08/2026 08:55
@@ -986,16 +999,3 @@ f43b12c4-0d5c-4be2-aeca-b8cb5a6a6e62,alps.ski,resell,,,high,low,4,"Name.com, Inc
 5024c822-2e46-4593-b825-d7401c193111,parched.ski,available,39.99,86.99,medium,low,7,name.com,,,
 6d8a8dca-d49e-44cb-b21c-481e69e08bf5,microbial.ski,available,27.99,64.99,medium,low,9,namesilo,,,08/09/2026 09:41
 c3970b6c-752e-4700-aa94-1b65d0a4adcb,tragedy.ski,available,27.99,64.99,medium,low,7,namesilo,,,24/09/2026 11:39
-ada7e0e8-e708-43d0-92a1-88937589c7d0,causally.ski,available,27.99,64.99,medium,low,8,namesilo,,,14/09/2026 06:01
-79e4257d-6d2f-40e4-b524-3ac7469164c2,affirmed.ski,available,27.99,64.99,high,low,8,namesilo,,,17/09/2026 14:27
-33128cd0-e5d9-4f86-9be7-ac008adee62a,waterborne.ski,available,27.99,64.99,medium,low,10,namesilo,,,13/09/2026 08:36
-6aa173bb-97f7-46b2-8824-466a2b2739c9,beth.ski,available,27.99,64.99,medium,low,4,namesilo,,,23/09/2026 11:12
-d03694b4-6aee-4246-804d-539dbdce5a78,ada.ski,premium,118.8,118.8,high,medium,3,namesilo,,,
-36a8e09b-9d53-4e40-b49a-4294b68c6d47,bellying.ski,available,39.99,86.99,low,low,8,name.com,,,09/08/2026 13:37
-fa7eb247-cf7b-4fb0-a413-66416feb4b14,slapstick.ski,available,27.99,64.99,high,low,9,namesilo,,,10/09/2026 10:03
-6294a272-a53c-42e9-943a-c8b1109ce4a8,gloaming.ski,available,27.99,64.99,medium,low,8,namesilo,,,11/09/2026 21:41
-f5d6604e-63a6-40c6-8736-e90d9b2ea856,sleazy.ski,available,39.99,86.99,medium,low,6,name.com,,,11/08/2026 09:04
-d70760ed-abff-4243-a760-8a84cf7bdc0f,firedog.ski,available,27.99,64.99,medium,low,7,namesilo,,,19/09/2026 04:06
-2a78bbad-4dad-4390-810b-ae4c78e1e36f,formalise.ski,available,39.99,,high,low,9,name.com,,,
-dc02778a-f6a3-4368-9092-7cdd68cc10b6,absolute.ski,available,27.99,64.99,high,low,8,namesilo,,,21/09/2026 14:42
-2b3e190e-0a7e-4dcb-975a-42cd8817db15,fordable.ski,available,39.99,86.99,medium,low,8,name.com,,,18/08/2026 11:24
